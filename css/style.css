@@ -1,0 +1,9 @@
+hr{
+    height: 10px;
+width: 200px;
+border-color: blue;
+background-color: blue;
+}
+p{
+    text-align: center;
+}
